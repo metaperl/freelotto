@@ -1,0 +1,2 @@
+# freelotto
+Play free lotto
